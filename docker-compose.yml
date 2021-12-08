@@ -1,0 +1,7 @@
+version: "3.9"
+services:
+  tfs:
+    build: .
+    ports:
+      - "7171:7171"
+      - "7172:7172"
