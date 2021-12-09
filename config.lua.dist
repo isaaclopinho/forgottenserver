@@ -19,7 +19,7 @@ expFromPlayersLevelRange = 75
 -- Connection Config
 -- NOTE: maxPlayers set to 0 means no limit
 -- NOTE: allowWalkthrough is only applicable to players
-ip = "52.53.241.126"
+ip = "54.153.83.252"
 bindOnlyGlobalAddress = false
 loginProtocolPort = 7171
 gameProtocolPort = 7172
