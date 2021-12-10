@@ -68,7 +68,7 @@ maxMarketOffersAtATimePerPlayer = 100
 -- MySQL
 mysqlHost = "127.0.0.1"
 mysqlUser = "isaac"
-mysqlPass = "12345"
+mysqlPass = "1234"
 mysqlDatabase = "forgottenserver"
 mysqlPort = 3306
 mysqlSock = ""
