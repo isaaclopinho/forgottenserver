@@ -19,7 +19,7 @@ expFromPlayersLevelRange = 75
 -- Connection Config
 -- NOTE: maxPlayers set to 0 means no limit
 -- NOTE: allowWalkthrough is only applicable to players
-ip = "54.153.83.252"
+ip = "18.228.221.67"
 bindOnlyGlobalAddress = false
 loginProtocolPort = 7171
 gameProtocolPort = 7172
@@ -67,8 +67,8 @@ maxMarketOffersAtATimePerPlayer = 100
 
 -- MySQL
 mysqlHost = "127.0.0.1"
-mysqlUser = "isaac"
-mysqlPass = "12345"
+mysqlUser = "root"
+mysqlPass = ""
 mysqlDatabase = "forgottenserver"
 mysqlPort = 3306
 mysqlSock = ""
